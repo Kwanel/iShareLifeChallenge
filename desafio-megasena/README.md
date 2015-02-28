@@ -1,9 +1,10 @@
-Solução para o desafio lançado
+#Solução para o desafio lançado
 
 Será necessário instalar cURL para php < 5
 
-sudo apt-get install php5-curl
-sudo /etc/init.d/apache2 restart
+>sudo apt-get install php5-curl
+
+>sudo /etc/init.d/apache2 restart
 
 
 Para rodar o script basta chama-lo por linha de comando endereçando a página da megasena como argumento de linha de comando.
