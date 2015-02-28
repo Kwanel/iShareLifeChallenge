@@ -1,6 +1,6 @@
 #Solução para o desafio lançado
 
-Será necessário instalar cURL para php < 5
+Será necessário instalar cURL para php > 5
 
 >sudo apt-get install php5-curl
 
